@@ -16,7 +16,7 @@ You are to develop a batch-based text search and filtering pipeline in Apache Sp
 
 ### Efficiency
 
-The execution of the full dataset (~5GB) and with a set of ten queries using four local executors took ~69 seconds.
+The execution of the full dataset (~5 GB) and with a set of ten queries using four local executors took ~69 seconds.
 
 ## Note
 
